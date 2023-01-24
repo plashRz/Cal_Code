@@ -79,7 +79,7 @@ public class calcCode {
 
         // Modern day java smart enough to handle this on its own by showing (infinity or NaN) but still implemented it.
         if(num2==0){
-            System.out.println("Hmm! that's all u got.\nI recommend you to study basic mathematics num1 bit\nthen you are welcomed to give this num1 try");
+            System.out.println("Hmm! that's all u got.\nI recommend you to study basic mathematics a bit\nthen you are welcomed to give this another try");
         }else{
         System.out.println(num1+" / "+num2+" =====> "+(num1/num2));
         }
